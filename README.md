@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Computer Science Student @EAFIT<br>🌱 I’m currently learning React and React Native<br>
+🔭 Computer Science Student @EAFIT<br>🌱 I’m currently learning Python for data science and machine learning<br>
 
 
 ## 🌐 Socials:
